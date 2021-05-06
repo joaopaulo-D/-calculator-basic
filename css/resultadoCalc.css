@@ -1,0 +1,27 @@
+body{
+    background-color: #e9eef0;
+}
+
+h2{
+    position: absolute;
+    top: 29%;
+    left: 43%;
+    text-align: center;
+    font-size: 35px;
+}
+
+.containerCalc{
+    border: 2px solid #191919;
+    position: absolute;
+    top: 41%;
+    left: 36%;
+    max-width: 250px;
+    width: 50%;
+    padding: 45px;
+}
+
+.resultadocalc{
+    text-align: center;
+    justify-content: center;
+    font-size: 24px;
+}
